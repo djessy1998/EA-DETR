@@ -1,0 +1,14 @@
+lightning_logs/
+checkpoints/
+logs/
+model_weights/
+old_test_train/
+weights/
+*__pycache__/
+.vscode/
+profiling_tb/
+results/
+results_paper/
+HardEventDSEC-DET/
+save_gt_npy.py
+events.npz
