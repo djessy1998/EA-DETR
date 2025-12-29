@@ -7,11 +7,11 @@
   <img src="assets/res_qual.png" width="700" height="auto">
 </p>
 
-Official implementation of EA-DETR: Event-Aware DEtection TRansformer : Link of paper
+Official implementation of EA-DETR: Event-Aware DEtection TRansformer : [Link of paper](https://hal.science/hal-05047456v1/document)
 
 ## Video
 
-Here is the link of our video : Link of video
+Here is the link of our video : [Link of video](https://www.youtube.com/watch?v=MgFWLxA0IeE)
 
 ## Citation
 
