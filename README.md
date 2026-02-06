@@ -15,7 +15,12 @@ Here is the link of our video : [Link of video](https://www.youtube.com/watch?v=
 
 ## Citation
 
-Citation bibtex
+@inproceedings{rossi2025event,
+  title={Event-Aware Distilled DETR for Object Detection in an Automotive Context},
+  author={Rossi, Djessy and Vasseur, Pascal and Morbidi, Fabio and Demonceaux, C{\'e}dric and Rameau, Fran{\c{c}}ois},
+  booktitle={IEEE INTELLIGENT VEHICLES SYMPOSIUM},
+  year={2025}
+}
 
 ## Installation
 
@@ -78,10 +83,4 @@ You have several options for training the models, with example commands provided
  ```bash
  python object_detection_detr.py -test -dsec-det
  ```
-
-## Pre-trained models
-
-
-## Results
-
 
