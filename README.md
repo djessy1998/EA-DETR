@@ -15,12 +15,14 @@ Here is the link of our video : [Link of video](https://www.youtube.com/watch?v=
 
 ## Citation
 
+```
 @inproceedings{rossi2025event,
   title={Event-Aware Distilled DETR for Object Detection in an Automotive Context},
   author={Rossi, Djessy and Vasseur, Pascal and Morbidi, Fabio and Demonceaux, C{\'e}dric and Rameau, Fran{\c{c}}ois},
   booktitle={IEEE INTELLIGENT VEHICLES SYMPOSIUM},
   year={2025}
 }
+```
 
 ## Installation
 
