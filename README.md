@@ -45,6 +45,10 @@ conda env create -f environment.yml
 conda activate ea-detr
 ```
 
+## Hard-DSEC-DET
+
+Hard-DSEC-DET is available on Zenodo: [Hard-DSEC-DET](https://zenodo.org/records/20108586?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjU4Njc1MmQ1LWZmMTQtNGJkNS1hYmM5LTc4MmZlZmUzZGNjZSIsImRhdGEiOnt9LCJyYW5kb20iOiI3NGI4YzBhOTk3OTYzZDBhYjVhNzNiZmJhMDlmMGMyNyJ9.R4cAiUP0eXhDTHZ22m1co4n0Dun7PI0jbMmuDlRrDGxYCSmBNuW4LtGGibubQB0EpL5m0LhtzFYYWIS41NB85A)
+
 ## Database needed
 
 To train or test EA-DETR, please follow the installation instructions provided on the DSEC-DET GitHub page: [DSEC-DET Installation Guide](https://github.com/uzh-rpg/dsec-det).
